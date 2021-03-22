@@ -22,4 +22,4 @@
 5. You can modify the size of the map by changing the printing property and replacing the x and y axis.
 ---
 # THANK YOU!
-### (If you thing my code is dirty, because I'm just new to c++)
+### ( If you thing my code is dirty, because I'm just new to C++ )
